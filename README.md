@@ -15,9 +15,11 @@ I'm a BS Computer Science student at the University of the Philippines Los Baño
 ---
 [![](https://visitcount.itsvg.in/api?id=devMapute&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-devMapute/devMapute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
