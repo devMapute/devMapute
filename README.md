@@ -16,10 +16,5 @@ I'm a BS Computer Science student at the University of the Philippines Los Baño
 [![](https://visitcount.itsvg.in/api?id=devMapute&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/devMapute/devMapute/output/snake.svg" alt="Snake animation" />
 
-###
