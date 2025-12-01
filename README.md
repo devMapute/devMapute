@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a BS Computer Science student at the University of the Philippines Los Baños with a strong interest in AI/ML and web development. I work on scalable architectures, efficient algorithms, and AI-driven solutions to solve real-world problems
 
+<img src="https://raw.githubusercontent.com/devMapute/devMapute/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrae.mapute) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drae_universe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrae-mapute) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammapute1@up.edu.ph) 
@@ -16,5 +17,4 @@ I'm a BS Computer Science student at the University of the Philippines Los Baño
 [![](https://visitcount.itsvg.in/api?id=devMapute&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/devMapute/devMapute/output/snake.svg" alt="Snake animation" />
 
