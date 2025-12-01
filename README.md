@@ -20,6 +20,6 @@ I'm a BS Computer Science student at the University of the Philippines Los Baño
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devMapute/devMapute/output/snake.svg" alt="Snake animation" />
 
 ###
